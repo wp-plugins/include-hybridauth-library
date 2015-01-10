@@ -10,9 +10,17 @@ Plugin that includes HybridAuth, manage providers config and contains documentat
 
 == Description ==
 
+Active this plugin to use HybridAuth on the fly.
+
+Install plugin and goto Settings -> HybridAuth to learn more.
+
 == Screenshots ==
 
 1. Admin panel
+
+== Changelog ==
+
+[https://github.com/Pravdomil/wp-hybridauth-lib/commits](https://github.com/Pravdomil/wp-hybridauth-lib/commits)
 
 == Installation ==
 
@@ -20,6 +28,8 @@ Same as others.
 
 == Frequently Asked Questions ==
 
-== Screenshots ==
+Not yet.
 
-== Changelog ==
+== Upgrade Notice ==
+
+Will be fine.
