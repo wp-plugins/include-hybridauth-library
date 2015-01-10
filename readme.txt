@@ -1,6 +1,6 @@
 === Include HybridAuth library ===
 Contributors: pravdomil
-Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BCL2X3AFQBAP2&item_name=hybridauth_lib%20beer
+Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BCL2X3AFQBAP2&item_name=HybridAuth_lib%20vine
 Tags: hybridauth, openid, providers, socialauth, facebook, twiter, google, api
 Requires at least: 3.0
 Tested up to: 4.0
@@ -10,9 +10,9 @@ Plugin that includes HybridAuth, manage providers config and contains documentat
 
 == Description ==
 
-Active this plugin to use HybridAuth on the fly.
-
 Install plugin and goto Settings -> HybridAuth to learn more.
+
+If you will find this plugin very helpful, you can buy me <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BCL2X3AFQBAP2&item_name=HybridAuth_lib%20vine">a vine</a>.
 
 == Screenshots ==
 
@@ -20,7 +20,7 @@ Install plugin and goto Settings -> HybridAuth to learn more.
 
 == Changelog ==
 
-[https://github.com/Pravdomil/wp-hybridauth-lib/commits](https://github.com/Pravdomil/wp-hybridauth-lib/commits)
+<a href="https://github.com/Pravdomil/wp-hybridauth-lib/commits">GitHub</a>
 
 == Installation ==
 
