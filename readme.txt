@@ -10,6 +10,10 @@ Plugin that includes HybridAuth, manage providers config and contains documentat
 
 == Description ==
 
+== Screenshots ==
+
+1. Admin panel
+
 == Installation ==
 
 Same as others.
